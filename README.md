@@ -1,2 +1,2 @@
-# Independent_Projects2023
-Repository for all independent projects in 2023
+# AirBnb-Toronto-Eval
+Repository for All Python, SQL and Dataset files for Study of Toronto's AirBnB market.
